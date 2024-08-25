@@ -1,0 +1,31 @@
+{
+  "name": "com.splinefox.renametool",
+  "displayName": "SplineFox - Rename Tool",
+  "version": "0.0.0",
+  "unity": "2021.2",
+  "unityRelease": "11f1",
+  "description": "This is a template package, used as a basis to build a bigger one.",
+  "category": "Tool",
+  "type": "tool",
+  "license": "MIT",
+  "author": {
+    "name": "Spline Fox",
+    "email": "betaspfox@gmail.com",
+    "url": ""
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "SplineFox",
+    "Scripts",
+    "Template",
+    "Tool"
+  ],
+  "samples": [
+    {
+      "displayName": "Example 1",
+      "description": "This sample is just an example",
+      "path": "Samples~/Example1"
+    }
+  ]
+}
